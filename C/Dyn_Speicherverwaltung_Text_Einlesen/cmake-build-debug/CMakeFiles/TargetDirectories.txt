@@ -1,0 +1,3 @@
+C:/Users/timka/Desktop/Bewerbungsunterlagen_Beispielprojekte/C/Dyn_Speicherverwaltung_Text_Einlesen/cmake-build-debug/CMakeFiles/Dyn_Speicher_Text_Einlesen_v3.dir
+C:/Users/timka/Desktop/Bewerbungsunterlagen_Beispielprojekte/C/Dyn_Speicherverwaltung_Text_Einlesen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timka/Desktop/Bewerbungsunterlagen_Beispielprojekte/C/Dyn_Speicherverwaltung_Text_Einlesen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/timka/OneDrive - HTL Saalfelden/1AHINF/Programmieren/C/4_Gewinnt_Speicher/cmake-build-debug/CMakeFiles/4_Gewinnt_Speicher.dir
+C:/Users/timka/OneDrive - HTL Saalfelden/1AHINF/Programmieren/C/4_Gewinnt_Speicher/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/timka/OneDrive - HTL Saalfelden/1AHINF/Programmieren/C/4_Gewinnt_Speicher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
