@@ -1,0 +1,7 @@
+Adafruit CircuitPython 8.2.9 on 2023-12-06; Raspberry Pi Pico with rp2040
+Board ID:raspberry_pi_pico
+UID:E660D05113906629
+boot.py output:
+Traceback (most recent call last):
+  File "boot.py", line 25, in <module>
+RuntimeError: No pull up found on SDA or SCL; check your wiring

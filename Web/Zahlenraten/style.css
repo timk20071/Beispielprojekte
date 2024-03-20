@@ -1,0 +1,13 @@
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+.eingabe{
+  display: flex;
+  width: 100%;
+}
+body {
+  background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZsZHd4NXlla3dmbXk1eHIzMWpxbGZtN3p4dGt3YjI3bG82N2kzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/puKGe5eOALSh42ip0w/giphy.gif");
+  background-size: cover;
+}
